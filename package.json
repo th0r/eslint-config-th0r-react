@@ -1,0 +1,36 @@
+{
+  "name": "eslint-config-th0r-react",
+  "version": "1.0.0",
+  "description": "React ESLint config for my projects",
+  "main": "index.json",
+  "files": [
+    "index.json"
+  ],
+  "peerDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-config-th0r": "^1.0.0",
+    "eslint-plugin-react": "^7.6.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.16.0",
+    "eslint-config-th0r": "^1.0.0",
+    "eslint-plugin-react": "^7.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/th0r/eslint-config-th0r.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "th0r",
+    "react"
+  ],
+  "author": "th0r <grunin.ya@ya.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/th0r/eslint-config-th0r-react/issues"
+  },
+  "homepage": "https://github.com/th0r/eslint-config-th0r-react#readme"
+}
