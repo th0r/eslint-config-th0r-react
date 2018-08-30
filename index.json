@@ -55,8 +55,11 @@
     "react/sort-comp": ["error", {
       "order": [
         "static-methods",
+        "instance-variables",
         "lifecycle",
         "render",
+        "getters",
+        "setters",
         "eventHandlers",
         "everything-else"
       ],
