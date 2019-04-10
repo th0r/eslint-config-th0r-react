@@ -41,6 +41,7 @@
     "react/no-typos": "error",
     "react/no-unescaped-entities": "off",
     "react/no-unknown-property": "error",
+    "react/no-unsafe": "error",
     "react/no-unused-prop-types": "error",
     "react/no-unused-state": "error",
     "react/no-will-update-set-state": "error",
@@ -105,6 +106,7 @@
     "react/jsx-equals-spacing": ["error", "never"],
     "react/jsx-filename-extension": ["error", {"extensions": [".jsx"]}],
     "react/jsx-first-prop-new-line": ["error", "never"],
+    "react/jsx-fragments": ["error", "syntax"],
     "react/jsx-handler-names": ["error", {
       "eventHandlerPrefix": "handle",
       "eventHandlerPropPrefix": "on"
@@ -112,6 +114,7 @@
     "react/jsx-indent-props": ["error", 2],
     "react/jsx-indent": ["error", 2],
     "react/jsx-key": "error",
+    "react/jsx-max-depth": "off",
     "react/jsx-max-props-per-line": "off",
     "react/jsx-no-bind": "warn",
     "react/jsx-no-comment-textnodes": "error",
@@ -120,6 +123,7 @@
     "react/jsx-no-target-blank": "error",
     "react/jsx-no-undef": "error",
     "react/jsx-pascal-case": "error",
+    "react/jsx-props-no-multi-spaces": "error",
     "react/jsx-sort-default-props": "off",
     "react/jsx-sort-props": ["error", {
       "callbacksLast": true,

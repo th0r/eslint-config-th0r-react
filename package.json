@@ -7,15 +7,15 @@
     "index.json"
   ],
   "peerDependencies": {
-    "eslint": "^4.16.0",
-    "eslint-config-th0r": "^1.0.0",
-    "eslint-plugin-react": "^7.6.1"
+    "eslint": "^5.13.0",
+    "eslint-config-th0r": "^2.0.0",
+    "eslint-plugin-react": "^7.12.4"
   },
   "devDependencies": {
-    "babel-eslint": "^8.2.1",
-    "eslint": "^4.16.0",
-    "eslint-config-th0r": "^1.0.0",
-    "eslint-plugin-react": "^7.6.1"
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.13.0",
+    "eslint-config-th0r": "^2.0.0",
+    "eslint-plugin-react": "^7.12.4"
   },
   "repository": {
     "type": "git",
